@@ -1,0 +1,58 @@
+
+#CourseContent div.d2 .title h1
+{
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    color: #535565;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 5%;
+}
+#CourseContent div.d2 .title span
+{
+    color:#FFB03B;
+}
+
+#CourseContent div.d2 table
+{
+    margin:40px 200px;
+    width:70%
+}
+#CourseContent  div.d2	th
+{
+    font-size: 25px;
+    text-align: center;
+}
+#CourseContent  div.d2	td
+{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#CourseContent  div.d2 .btn1
+{
+    margin:2% 15%;
+    font-size: 18px;
+    background-color: #535565;
+    transition: 0.5s;
+}
+#CourseContent  div.d2 .btn1:hover
+{
+
+    font-size: 25px;
+
+}
+#CourseContent	button
+{
+    background-color: #F4F4F6;
+    transition: 0.5s;
+    color:  #FFB03B;
+    border:1px solid #535565;
+}
+#CourseContent	button:hover
+{
+    background-color: #F4F4F6;
+    color: #535565;
+    border:1px solid #FFB03B;
+
+}

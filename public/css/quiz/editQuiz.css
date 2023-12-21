@@ -1,0 +1,150 @@
+
+                      body
+                      {
+                          background-color: #F4F4F6;
+                      }
+/*---------- NavBar ----------*/
+
+@media (max-width: 768px) {
+
+    div.d1
+    {
+
+        width: 30vh;
+    }
+    div.d1 li a
+    {
+        font-size: 12px;
+        line-height: 50px;
+        padding-left: 15px;
+
+    }
+    .sidebar li.CourseName a
+    {
+        font-size: 20px;
+
+    }
+    .sidebar header
+    {
+        font-size: 35px;
+    }
+
+
+}
+/*---------- DIV 2 ----------*/
+div.d2 .row
+{
+    margin-left:  20%;
+}
+p.p
+{
+    font-size: 20px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 3%;
+    display: inline-block;
+}
+a span.gl1
+{
+    color:  #FFB03B;
+    font-size: 25px;
+    margin-left: 50%;
+}
+input.finish
+{
+
+    margin-left:  40%;
+    width: 20%;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color:#535565;
+    color: #FFB03B;
+}
+input
+{
+    font-size: 20px;
+    height: 50px;
+    margin-left: 2px;
+    width: 50%;
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+
+}
+a:hover
+{
+    text-decoration: none;
+
+}
+div.d3
+{
+    margin-top: 2%;
+}
+div.d3 a#add-new-section
+{
+    font-size: 30px;
+    color: #FFB03B;
+
+
+}
+
+#add-new-option
+{
+    font-size: 30px;
+    color:#535565;
+    margin: 200px;
+    text-decoration: none;
+}
+
+fieldset
+{
+
+    padding: 40px;
+
+}
+.Answers
+{
+
+    width: 50%;
+    margin: 10px;
+}
+
+#Close
+{
+    background-color: #535565 ;
+    color: white;
+    font-size: 15px;
+    border-radius: 80px;
+    height: 30px;
+    transition: 0.5s;
+}
+#Close:hover
+{
+    background-color: red;
+}
+.questionGrade
+{
+    width: 100px;
+    border-radius: 50px;
+}
+input#grade
+{
+    font-size: 18px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 1%;
+    display: inline-block;
+    width: 40px;
+}
+#correct_Answer
+{
+    font-size: 18px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 1%;
+    display: inline-block;
+}
+

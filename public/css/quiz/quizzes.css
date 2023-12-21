@@ -1,0 +1,49 @@
+
+
+.btn5
+{
+    margin-top: 3%;
+    background-color: #F4F4F6;
+    transition: 0.5s;
+    color: #535565;
+    border:1px solid #FFB03B;
+
+    font-size: 25px;
+
+}
+.btn5:hover
+{ background-color: #F4F4F6;
+
+    color:  #FFB03B;
+    font-size: 25px;
+    border:1px solid #535565;
+}
+
+div.d2 .title h1
+{
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    color: #535565;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 5%;
+}
+div.d2 .title span
+{
+    color:#FFB03B;
+}
+div.d2 table
+{
+    margin:40px 200px;
+    width:70%
+}
+div.d2	th
+{
+    font-size: 25px;
+    text-align: center;
+}
+div.d2	td
+{
+    font-size: 30px;
+    padding: 20px;
+}

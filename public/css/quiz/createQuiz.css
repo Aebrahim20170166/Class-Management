@@ -1,0 +1,118 @@
+div.d2 .row
+{
+    margin-left:  15%;
+}
+p.p
+{
+    font-size: 20px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 3%;
+    display: inline-block;
+}
+span.gl1
+{
+    color:  #FFB03B;
+    font-size: 25px;
+    margin-left: 2%;
+}
+input.save
+{
+
+    margin-left:  40%;
+    width: 20%;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color:#535565;
+    color: #FFB03B;
+}
+input
+{
+    font-size: 20px;
+    height: 50px;
+    width: 95%;
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+
+}
+a:hover
+{
+    text-decoration: none;
+
+}
+a#add-new-section
+{
+    font-size: 30px;
+    color: #FFB03B;
+
+
+}
+.save:hover
+{
+    background-color:#535565;
+    color: #FFB03B;
+}
+#add-new-option
+{
+    font-size: 30px;
+    color:#535565;
+    margin: 200px;
+    text-decoration: none;
+}
+
+fieldset
+{
+
+    padding: 40px;
+
+}
+.Answers
+{
+
+    width: 50%;
+    margin: 10px;
+}
+.topic
+{
+    margin: 4% 5%;
+    width: 40%;
+    border-radius: 15px;
+}
+#Close
+{
+    background-color: #535565 ;
+    color: white;
+    font-size: 15px;
+    border-radius: 80px;
+    height: 30px;
+    transition: 0.5s;
+}
+#Close:hover
+{
+    background-color: red;
+}
+#questionGrade
+{
+    width: 100px;
+    border-radius: 50px;
+}
+#grade
+{
+    font-size: 18px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 1%;
+    display: inline-block;
+}
+#correct_Answer
+{
+    font-size: 18px;
+    color: #535565;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-left: 1%;
+    display: inline-block;
+}

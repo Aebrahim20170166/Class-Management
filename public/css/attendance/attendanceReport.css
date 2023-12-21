@@ -1,0 +1,56 @@
+
+    /*---------- DIV 2 ----------*/
+
+div.d2 .title h2
+{
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    color: #535565;
+    font-style: italic;
+    font-size: 40px;
+    margin: 5% 14%;
+    margin-left: 25%;
+
+}
+div.d2 .title span
+{
+    color:#FFB03B;
+}
+
+div.d2 table
+{
+    margin:40px 200px;
+    width:70%;
+    margin-left: 20%;
+
+}
+div.d2    th
+{
+    font-size: 25px;
+    text-align: center;
+}
+div.d2    td
+{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+div.d2 .btn1
+{
+    margin:2% 15%;
+    font-size: 18px;
+    background-color: #535565;
+    transition: 0.5s;
+}
+div.d2 .btn1:hover
+{
+
+    font-size: 25px;
+
+}
+button
+{
+    background-color: #FFB03B;
+    color: #ffffff;
+}

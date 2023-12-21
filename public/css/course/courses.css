@@ -1,0 +1,153 @@
+
+                      #HomePage
+                      {
+                          background-color: #F4F4F6;
+                      }
+/*---------- NavBar ----------*/
+div.d1
+{
+    width: 100%;
+    background: rgba(26, 24, 22, 0.6);
+
+    height: 70px;
+}
+div.d1 ul
+{
+    margin-left: 400px;
+}
+div.d1 li {
+
+    position: relative;
+    white-space: nowrap;
+    padding: 10px 0 10px 24px;
+
+}
+
+div.d1 li a {
+
+
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+    position: relative;
+    color: #ffffff;
+    transition:  transform 1s;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+div.d1 li a:hover:not(.active) {
+    color: #FFB03B;
+    border-radius: 50px;
+    background:  rgba(26, 24, 22, 0.2);
+    border: 1.5px solid #FFB03B;
+
+}
+
+div.d1 .active {
+    color: #FFB03B;
+    font-weight: 900;
+
+}
+div.d1 .active:hover
+{
+    background:  rgba(26, 24, 22, 0.2);
+    border-radius: 50px;
+    border: 1.5px solid #FFB03B;
+}
+
+div.d1 h2 a
+{
+    color: #FFB03B;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    font-style: italic;
+    margin-left: 80px;
+    font-size: 45px;
+
+}
+div.d1 h2 a:hover
+{
+    text-decoration: none;
+    color: #FFB03B;
+}
+
+@media (min-width: 1024px) {
+    #HomePage {
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    #HomePage {
+        height: 80vh;
+    }
+    #HomePage h1 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    div.d1
+    {
+
+        height: 50px;
+    }
+    div.d1 h2 a
+    {
+        font-size: 25px;
+
+    }
+}
+/*---------- DIV 2 ----------*/
+
+
+#HomePage div.d2 button.btn
+{
+    width: 350px;
+    height: 50px;
+    margin: 20px;
+    background-color: #ffffff;
+    border:2px solid  #FFB03B;
+    color: #FFB03B;
+    font-size: 20px;
+    transition:  0.5s;
+
+}
+#HomePage div.d2 button.btn:hover
+{
+
+    border-color: #535565;
+    color: #535565;
+}
+#HomePage	div.d2
+{
+
+    margin: 150px;
+}
+#HomePage div.d2 .title h1
+{
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    color: #535565;
+    font-style: italic;
+    font-size: 50px;
+}
+#HomePage div.d2 .title span
+{
+    color:#FFB03B;
+}
+#HomePage 	span.gl
+{
+    margin: 10px;
+    font-size: 30px;
+    color: #535565;
+    transition: 0.5s;
+}
+#HomePage 	span.gl:hover
+{
+    color: red;
+
+}
+
+

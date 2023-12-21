@@ -1,0 +1,35 @@
+div.container{
+    margin-left: 17%;
+
+}
+/*---------- DIV 2 ----------*/
+
+div.d2 span.p
+{
+    text-indent: 10px;
+    font-size: 20px;
+    color: #535565;
+    display: inline-block;
+    margin-left: 20%;
+    /*margin-top: 3%;*/
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+div.d2 p
+{
+    text-indent: 5px;
+    margin-left: 2%;
+    display: inline-block;
+    font-size: 15px;
+}
+div.d2  .num
+{
+    color: #FFB03B;
+    font-size: 20px;
+}
+div.d2 span.sp
+{
+    color: #535565;
+    font-size: 20px;
+}
